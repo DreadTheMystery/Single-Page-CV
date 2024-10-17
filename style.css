@@ -1,0 +1,11 @@
+body {
+  height: 80vh;
+  padding-left: 20px;
+}
+
+hr {
+  height: 2px; /* This makes the line 5 pixels thick */
+  background-color: #000; /* This changes the color of the line */
+  border: none; /* Removes any default border */
+  margin: 20px 0; /* Adds space around the line */
+}
