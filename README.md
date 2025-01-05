@@ -9,3 +9,6 @@ This project contains a simple single-page CV built using HTML and CSS.
 [https://mrwais001.github.io/Single-Page-CV/]
 
 [https://github.com/MrWais001/Single-Page-CV]
+
+
+https://github.com/DreadTheMystery/Single-Page-CV
